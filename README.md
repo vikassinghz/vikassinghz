@@ -2,7 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=45&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=800&height=80&lines=Vikas+Singh+Baghel" alt="Typing Animation" />
 </div>
 
-<div align="center" style="margin: 30px 0;">
+<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 30px 0; padding: 40px; background: linear-gradient(135deg, #1a1a1a 0%, #2d1a4d 100%); border-radius: 15px; border: 2px solid #6D28D9;">
+  <h3 style="color: #E6EDF3; font-size: 28px; font-weight: bold; margin: 0; letter-spacing: 2px;">AI FULLSTACK DEVELOPER</h3>
+  <p style="color: #6D28D9; font-size: 16px; margin: 15px 0 0 0;">WORK.BAGHEL@GMAIL.COM</p>
+</div>
   <a href="https://github.com/vikassinghz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/vikassinghz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vs.baghel2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -79,7 +83,7 @@
 
 <hr style="border-top: 3px solid #6D28D9; margin: 30px 0;">
 
-## 🚀 82
+## 🚀 Featured Projects
 
 
 <div align="center" style="margin: 20px 0;">
@@ -87,22 +91,6 @@
     <tr style="background: linear-gradient(135deg, #6D28D9 0%, #3B82F6 100%);">
       <th style="padding: 12px; border: 2px solid #6D28D9; color: white; text-align: left;">Project</th>
       <th style="padding: 12px; border: 2px solid #6D28D9; color: white; text-align: center;">Status</th>
-    </tr>
-    <tr style="background: #0D1117;">
-      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/awesome-dsa-resources" style="color: #6D28D9; text-decoration: none;"><strong>awesome-dsa-resources</strong></a></td>
-      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active"/></td>
-    </tr>
-    <tr style="background: #0D1117;">
-      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/awesome-cp-resources" style="color: #6D28D9; text-decoration: none;"><strong>awesome-cp-resources</strong></a></td>
-      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active"/></td>
-    </tr>
-    <tr style="background: #0D1117;">
-      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/awesome-web-dev" style="color: #6D28D9; text-decoration: none;"><strong>awesome-web-dev</strong></a></td>
-      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active"/></td>
-    </tr>
-    <tr style="background: #0D1117;">
-      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/awesome-system-design" style="color: #6D28D9; text-decoration: none;"><strong>awesome-system-design</strong></a></td>
-      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active"/></td>
     </tr>
     <tr style="background: #0D1117;">
       <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/Communication_Tracker_vikas" style="color: #6D28D9; text-decoration: none;"><strong>Communication_Tracker_vikas</strong></a></td>
@@ -140,7 +128,7 @@
   <p style="color: #E6EDF3; font-size: 16px; line-height: 1.8;">
     🙋 Hi there! I'm <strong style="color: #6D28D9;">Vikas Singh Baghel</strong>, a passionate developer and tech enthusiast.
     <br/>
-    🚀 Pursuing <strong>GATE CSE</strong> & building awesome open-source resources
+    🚀 Building awesome open-source resources
     <br/>
     🧪 Highly interested in <strong>DSA, Competitive Programming, Web Development & AI</strong>
     <br/>
@@ -163,5 +151,4 @@
 <div align="center" style="margin-top: 30px; padding: 20px;">
   <p style="color: #6D28D9; font-size: 12px;">Made with ❤️ by Vikas Singh Baghel | 📯 © 2026 All Rights Reserved</p>
 </div>
-82
-## 🚀 147
+
