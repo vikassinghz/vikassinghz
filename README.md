@@ -1,6 +1,11 @@
-<div align="center">
+[<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=45&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=800&height=80&lines=Vikas+Singh+Baghel" alt="Typing Animation" />
 </div>
+
+<div align="center" style="margin: 20px 0; max-width: 100%;">
+  <img src="https://your-image-url-here.jpg" alt="AI Fullstack Developer" style="width: 100%; max-width: 800px; border-radius: 10px; display: block; margin: 0 auto;" />
+</div>
+
 
 <div align="center" style="margin: 20px 0;">
 <div align="center" style="margin: 30px 0; padding: 40px; background: linear-gradient(135deg, #1a1a1a 0%, #2d1a4d 100%); border-radius: 15px; border: 2px solid #6D28D9;">
@@ -152,3 +157,4 @@
   <p style="color: #6D28D9; font-size: 12px;">Made with ❤️ by Vikas Singh Baghel | 📯 © 2026 All Rights Reserved</p>
 </div>
 
+](https://via.placeholder.com/1200x600/1a1a1a/6D28D9?text=AI+FULLSTACK+DEVELOPER)
