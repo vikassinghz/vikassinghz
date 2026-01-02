@@ -1,4 +1,96 @@
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=45&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=800&height=80&lines=Vikas+Singh+Baghel;Full-Stack+AI+Engineer;System+Architect+2026" alt="Typing Animation" />
+</div>
+
+<div align="center" style="margin: 30px 0;">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=6D28D9)](https://github.com/vikassinghz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikassinghz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vs.baghel2002@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/vikassinghz)
+
+</div>
+
+<hr style="border-top: 3px solid #6D28D9; margin: 30px 0;">
+
+## 📊 Live Performance Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vikassinghz&show_icons=true&theme=midnight&hide_border=true&bg_color=0d1117&title_color=6D28D9&text_color=e0e0e0&icon_color=8b5cf6&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassinghz&layout=compact&theme=midnight&hide_border=true&bg_color=0d1117&title_color=6D28D9&text_color=e0e0e0" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vikassinghz&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b5cf6&point=a78bfa&line=6D28D9" alt="Contribution Graph" />
+</div>
+
+---
+
+## Real-Time Profile Metrics
+
+<div align="center">
+
+| Metric | Count | Link |
+|:---:|:---:|:---:|
+| **Repositories** | 23 | [View All](https://github.com/vikassinghz?tab=repositories) |
+| **Profile Views** | Live Counter | [![Views](https://komarev.com/ghpvc/?username=vikassinghz&color=6D28D9)](https://github.com/vikassinghz) |
+| **Stars** | 1 | [Check Out](https://github.com/vikassinghz?tab=stars) |
+| **GitHub Followers** | 0 | [Follow](https://github.com/vikassinghz) |
+
+</div>
+
+---
+
+## Technical Expertise
+
+Backend & AI/ML: Python | JavaScript | TypeScript | Java | C++ | TensorFlow | PyTorch
+
+Frontend: React | Next.js | Vue.js | Tailwind CSS | HTML5 | CSS3
+
+Database: PostgreSQL | MongoDB | Firebase | Redis
+
+DevOps: Docker | Kubernetes | GitHub Actions | AWS | GCP
+
+Tools: Git | VS Code | Jupyter | Linux
+
+---
+
+## Featured Projects
+
+- awesome-cp-resources - Competitive Programming guide
+- awesome-dsa-resources - Data Structures & Algorithms  
+- awesome-interview-prep - Interview preparation
+- awesome-system-design - System Design patterns
+- awesome-web-dev - Web Development stack
+
+---
+
+## Let's Connect
+
+Passionate about building intelligent systems and solving complex problems.
+
+✨ Open to: AI/ML projects | System Design | Full-Stack Development
+
+Email: vs.baghel2002@gmail.com
+LinkedIn: linkedin.com/in/vikassinghz  
+GitHub: github.com/vikassinghz
+
+---
+
+```javascript
+while (innovating) {
+  buildAwesomeThings();
+  solveComplexProblems();
+  learnNewTechnologies();
+  makeImpact();
+}
+```
+
+Status: ONLINE | Mode: FULL CAPACITY | Year: 2026
+
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=vikassinghz.vikassinghz&left_color=6D28D9&right_color=0d1117)
+
+**Made with ❤️ for Excellence in Engineering**<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=60&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=VIKAS+SINGH+BAGHEL;NEURAL+ARCHITECT+2026;FULL-STACK+AI+ENGINEER" />
 </div>
 
