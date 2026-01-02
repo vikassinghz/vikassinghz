@@ -79,7 +79,8 @@
 
 <hr style="border-top: 3px solid #6D28D9; margin: 30px 0;">
 
-## 🚀 Active Projects
+## 🚀 82
+
 
 <div align="center" style="margin: 20px 0;">
   <table style="border-collapse: collapse; width: 90%;">
@@ -106,7 +107,28 @@
     <tr style="background: #0D1117;">
       <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/Communication_Tracker_vikas" style="color: #6D28D9; text-decoration: none;"><strong>Communication_Tracker_vikas</strong></a></td>
       <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active"/></td>
+    </tr>    <tr style="background: #0D1117;">
+      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/awesome-cp-resources" style="color: #6D28D9; text-decoration: none;"><strong>📊 awesome-cp-resources</strong></a></td>
+      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active"/></td>
     </tr>
+    <tr style="background: #0D1117;">
+      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/awesome-web-dev" style="color: #6D28D9; text-decoration: none;"><strong>🞈 awesome-web-dev</strong></a></td>
+      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active"/></td>
+    </tr>
+    <tr style="background: #0D1117;">
+      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/KALAM" style="color: #6D28D9; text-decoration: none;"><strong>🤖 KALAM</strong></a></td>
+      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/AI/ML-10B981?style=flat-square" alt="Active"/></td>
+    </tr>
+    <tr style="background: #0D1117;">
+      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/ML_News_Detection" style="color: #6D28D9; text-decoration: none;"><strong>📐 ML_News_Detection</strong></a></td>
+      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/ML-10B981?style=flat-square" alt="Active"/></td>
+    </tr>
+    <tr style="background: #0D1117;">
+      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/Communication_Tracker_vikas" style="color: #6D28D9; text-decoration: none;"><strong>📡 Communication_Tracker</strong></a></td>
+      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active"/></td>
+    </tr>
+  </table>
+</div>
   </table>
 </div>
 
@@ -141,3 +163,5 @@
 <div align="center" style="margin-top: 30px; padding: 20px;">
   <p style="color: #6D28D9; font-size: 12px;">Made with ❤️ by Vikas Singh Baghel | 📯 © 2026 All Rights Reserved</p>
 </div>
+82
+## 🚀 147
