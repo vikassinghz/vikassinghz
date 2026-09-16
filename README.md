@@ -35,53 +35,43 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=vikassinghz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&text_color=E6EDF3&icon_color=6D28D9&title_color=6D28D9&border_color=6D28D9&border_radius=10&cache_seconds=1800"
+    src="./profile/stats.svg"
     alt="Vikas's GitHub Stats"
   />
-
 </div>
 
 <!-- Top Languages -->
 <div align="center" style="margin-top: 20px;">
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassinghz&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&text_color=E6EDF3&title_color=6D28D9&border_color=6D28D9&border_radius=10"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
   />
-
 </div>
 
 <!-- GitHub Streak -->
 <div align="center" style="margin-top: 20px;">
-
   <img
     src="https://streak-stats.demolab.com/?user=vikassinghz&theme=highcontrast&background=0D1117&stroke=6D28D9&ring=6D28D9&fire=FF6B35&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&border=6D28D9&border_radius=10"
-    alt="GitHub Contribution Streak"
+    alt="GitHub Streak"
   />
-
 </div>
 
-<!-- GitHub Contribution Activity Graph -->
+<!-- Real GitHub Contribution Calendar -->
 <div align="center" style="margin-top: 25px;">
-
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vikassinghz&bg_color=0D1117&color=E6EDF3&line=6D28D9&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&custom_title=GitHub%20Contribution%20Activity"
-    alt="GitHub Contribution Activity Graph"
+    src="./profile/contributions.svg"
+    alt="GitHub Contribution Calendar"
     width="95%"
   />
-
 </div>
 
 <!-- Profile Views -->
 <div align="center" style="margin-top: 20px;">
-
   <img
     src="https://komarev.com/ghpvc/?username=vikassinghz&style=for-the-badge&color=6D28D9"
     alt="Profile Views"
   />
-
 </div>
 
 <hr style="border-top: 3px solid #6D28D9; margin: 30px 0;">
