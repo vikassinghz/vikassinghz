@@ -1,37 +1,87 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=45&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=800&height=80&lines=Vikas+Singh+Baghel" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=45&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=800&height=80&lines=Vikas+Singh+Baghel"
+    alt="Typing Animation"
+  />
 </div>
 
 <div align="center" style="margin: 20px 0; max-width: 100%;">
-  <img src="https://res.cloudinary.com/dbxz7gd59/image/upload/v1767355860/Black_and_Gray_Minimalist_Shapes_Personal_Profile_LinkedIn_Banner_1_nos6vf.png" alt="AI Fullstack Developer" style="width: 100%; max-width: 800px; border-radius: 10px; display: block; margin: 0 auto;" />
+  <img
+    src="https://res.cloudinary.com/dbxz7gd59/image/upload/v1767355860/Black_and_Gray_Minimalist_Shapes_Personal_Profile_LinkedIn_Banner_1_nos6vf.png"
+    alt="AI Fullstack Developer"
+    style="width: 100%; max-width: 800px; border-radius: 10px; display: block; margin: 0 auto;"
+  />
 </div>
-
 
 <div align="center" style="margin: 20px 0;">
 
-  <a href="https://github.com/vikassinghz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vikassinghz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vs.baghel2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/vikassinghz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/vikassinghz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:vs.baghel2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 </div>
 
 <hr style="border-top: 3px solid #6D28D9; margin: 30px 0;">
 
 ## 📊 Live Performance Analytics
 
+<!-- GitHub Stats -->
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vikassinghz&show_icons=true&theme=tokyonight&bg_color=0D1117&text_color=E6EDF3&border_color=6D28D9&border_radius=10&card_width=600"/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vikassinghz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&text_color=E6EDF3&icon_color=6D28D9&title_color=6D28D9&border_color=6D28D9&border_radius=10&cache_seconds=1800"
+    alt="Vikas's GitHub Stats"
+  />
+
 </div>
 
+<!-- Top Languages -->
 <div align="center" style="margin-top: 20px;">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassinghz&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=E6EDF3&border_color=6D28D9&border_radius=10"/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassinghz&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&text_color=E6EDF3&title_color=6D28D9&border_color=6D28D9&border_radius=10"
+    alt="Top Languages"
+  />
+
 </div>
 
+<!-- GitHub Streak -->
 <div align="center" style="margin-top: 20px;">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=vikassinghz&theme=highcontrast&background=0D1117&stroke=6D28D9&ring=6D28D9&fire=FF6B35&dates=E6EDF3&border_radius=10"/>
+
+  <img
+    src="https://streak-stats.demolab.com/?user=vikassinghz&theme=highcontrast&background=0D1117&stroke=6D28D9&ring=6D28D9&fire=FF6B35&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&border=6D28D9&border_radius=10"
+    alt="GitHub Contribution Streak"
+  />
+
 </div>
 
+<!-- GitHub Contribution Activity Graph -->
+<div align="center" style="margin-top: 25px;">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vikassinghz&bg_color=0D1117&color=E6EDF3&line=6D28D9&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&custom_title=GitHub%20Contribution%20Activity"
+    alt="GitHub Contribution Activity Graph"
+    width="95%"
+  />
+
+</div>
+
+<!-- Profile Views -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=vikassinghz&style=for-the-badge&color=6D28D9" alt="Profile Views" />
+
+  <img
+    src="https://komarev.com/ghpvc/?username=vikassinghz&style=for-the-badge&color=6D28D9"
+    alt="Profile Views"
+  />
+
 </div>
 
 <hr style="border-top: 3px solid #6D28D9; margin: 30px 0;">
