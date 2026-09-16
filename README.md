@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:vs.baghel2002@gmail.com">
+  <a href="mailto:work.baghel@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -76,122 +76,273 @@
 
 <hr style="border-top: 3px solid #6D28D9; margin: 30px 0;">
 
-## 💻 Technical Skills & Arsenal
+---
 
-### 🔴 Programming Languages
-<div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</div>
+## 👨‍💻 About Me
 
-### 🎉 Web Technologies
-<div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
+Hi, I'm **Vikas Singh Baghel**, an **AI & Full-Stack Developer** interested in building intelligent, useful and scalable software products.
 
-### 📚 Data & Databases
-<div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</div>
+- 🎓 B.Tech in Information Technology — **Artificial Intelligence & Robotics**
+- 🤖 Interested in **AI, LLMs, RAG & intelligent applications**
+- 💻 Building with **React, Next.js, Node.js, Python & TypeScript**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 📊 Exploring **Data Science & Machine Learning**
+- 🚀 Interested in turning ideas into real-world products
+- 🌱 Currently exploring **LLMs, RAG, AI Agents & AI systems**
+- 🤝 Open to interesting projects and collaborations
 
-### 🤖 AI & Machine Learning
-<div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-</div>
+---
 
-### 🚰 Developer Tools
-<div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</div>
+## 🛠️ Tech Stack
 
-<hr style="border-top: 3px solid #6D28D9; margin: 30px 0;">
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8B5CF6"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind,vite" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-8B5CF6?style=for-the-badge"/>
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
 
-<div align="center" style="margin: 20px 0;">
-  <table style="border-collapse: collapse; width: 90%;">
-    <tr style="background: linear-gradient(135deg, #6D28D9 0%, #3B82F6 100%);">
-      <th style="padding: 12px; border: 2px solid #6D28D9; color: white; text-align: left;">Project</th>
-      <th style="padding: 12px; border: 2px solid #6D28D9; color: white; text-align: center;">Status</th>
-    </tr>
-    <tr style="background: #0D1117;">
-      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/Communication_Tracker_vikas" style="color: #6D28D9; text-decoration: none;"><strong>Communication_Tracker_vikas</strong></a></td>
-      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active"/></td>
-    </tr>    <tr style="background: #0D1117;">
-      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/awesome-cp-resources" style="color: #6D28D9; text-decoration: none;"><strong>📊 awesome-cp-resources</strong></a></td>
-      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active"/></td>
-    </tr>
-    <tr style="background: #0D1117;">
-      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/awesome-web-dev" style="color: #6D28D9; text-decoration: none;"><strong>🞈 awesome-web-dev</strong></a></td>
-      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active"/></td>
-    </tr>
-    <tr style="background: #0D1117;">
-      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/KALAM" style="color: #6D28D9; text-decoration: none;"><strong>🤖 KALAM</strong></a></td>
-      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/AI/ML-10B981?style=flat-square" alt="Active"/></td>
-    </tr>
-    <tr style="background: #0D1117;">
-      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/ML_News_Detection" style="color: #6D28D9; text-decoration: none;"><strong>📐 ML_News_Detection</strong></a></td>
-      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/ML-10B981?style=flat-square" alt="Active"/></td>
-    </tr>
-    <tr style="background: #0D1117;">
-      <td style="padding: 12px; border: 2px solid #6D28D9; color: #E6EDF3;"><a href="https://github.com/vikassinghz/Communication_Tracker_vikas" style="color: #6D28D9; text-decoration: none;"><strong>📡 Communication_Tracker</strong></a></td>
-      <td style="padding: 12px; border: 2px solid #6D28D9; text-align: center;"><img src="https://img.shields.io/badge/Active-10B981?style=flat-square" alt="Active"/></td>
-    </tr>
-  </table>
+<td width="50%" valign="top">
+
+### 🧠 Kalam AI
+
+AI-powered writing assistant for creating and improving content.
+
+**Features**
+
+- ✍️ Content Creation
+- 🔄 Rewriting & Paraphrasing
+- 📧 Email Composition
+- 🔎 Research Assistance
+- 📱 Social Media Content
+
+**Stack**
+
+`React` `Vite` `TypeScript` `Groq` `Tailwind CSS`
+
+<br>
+
+<a href="https://github.com/vikassinghz/KALAM">
+<img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Enterprise Communication Tracker
+
+Communication management and analytics platform.
+
+**Features**
+
+- 🏢 Company Management
+- 📈 Communication Analytics
+- 📅 Calendar View
+- 📄 CSV & PDF Reports
+- 🔔 Notifications
+- 📱 Responsive UI
+
+**Stack**
+
+`React` `Tailwind` `Zustand` `Recharts` `Vite`
+
+<br>
+
+<a href="https://github.com/vikassinghz/Communication_Tracker_vikas">
+<img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📰 ML News Detection
+
+Machine-learning based project focused on detecting and classifying news content.
+
+**Focus**
+
+`Machine Learning` `NLP` `Data Processing`
+
+<br>
+
+<a href="https://github.com/vikassinghz/ML_News_Detection">
+<img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Awesome CP Resources
+
+Curated resources for competitive programming and DSA.
+
+**Focus**
+
+`DSA` `Algorithms` `Competitive Programming` `Problem Solving`
+
+<br>
+
+<a href="https://github.com/vikassinghz/awesome-cp-resources">
+<img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Awesome Web Dev
+
+Curated resources covering modern web development.
+
+**Focus**
+
+`Frontend` `Backend` `Web Development` `Developer Tools`
+
+<br>
+
+<a href="https://github.com/vikassinghz/awesome-web-dev">
+<img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 LeetCode Grind
+
+My ongoing journey of solving algorithmic problems and improving DSA skills.
+
+**Focus**
+
+`Data Structures` `Algorithms` `Problem Solving`
+
+<br>
+
+<a href="https://github.com/vikassinghz/LeetCodeGrind">
+<img src="https://img.shields.io/badge/View%20Solutions-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Focus |
+|---|---|---|
+| **Software Developer Intern** | INDVIBE INFOTECH | React · Tailwind · Zustand · Analytics |
+| **Machine Learning Intern** | Vivada Tech | NLP · Prompt Engineering · LLM APIs |
+| **Data Analyst Intern** | Mentorness | SQL · Power BI · Tableau |
+| **Web Developer Intern** | Internpe | React · Tailwind · Responsive Web |
+| **AI Trainer** | Outlier AI | AI Training · Dataset Curation |
+| **Campus Ambassador** | Physics Wallah | Community · Outreach |
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **Pre-Rashtrapati Award** — Bharat Scouts and Guides
+- 🏅 **Rajya Puraskar** — Bharat Scouts and Guides
+- ☁️ **Oracle Cloud Infrastructure 2025 — AI Foundations Associate**
+- 📊 **Oracle Certified Data Science**
+- 🎥 Built a YouTube channel with **7.5K+ subscribers**
+
+---
+
+## 🔭 Currently Exploring
+
+<div align="center">
+
+`LLMs` → `RAG` → `AI Agents` → `LangGraph` → `Vector Databases` → `Production AI`
+
+<br><br>
+
+**DSA** → **System Design** → **Backend Engineering** → **Cloud** → **Software Architecture**
+
 </div>
-  </table>
-</div>
 
-<hr style="border-top: 3px solid #6D28D9; margin: 30px 0;">
+---
 
-## 📚 About Me
+## 📈 My Development Journey
 
-<div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(109, 40, 217, 0.1), rgba(59, 130, 246, 0.1)); border-radius: 10px; border-left: 5px solid #6D28D9;">
-  <p style="color: #E6EDF3; font-size: 16px; line-height: 1.8;">
-    🙋 Hi there! I'm <strong style="color: #6D28D9;">Vikas Singh Baghel</strong>, a passionate developer and tech enthusiast.
-    <br/>
-    🚀 Building awesome open-source resources
-    <br/>
-    🧪 Highly interested in <strong>DSA, Competitive Programming, Web Development & AI</strong>
-    <br/>
-    💫 Let's collaborate on exciting projects & contribute to the developer community
-    <br/><br/>
-    <strong style="color: #FF6B35;">⚡ "Code Today, Innovate Tomorrow" ⚡</strong>
-  </p>
-</div>
+```text
+AI & Robotics
+      │
+      ├── Machine Learning
+      │
+      ├── Data Science
+      │
+      ├── Web Development
+      │
+      ├── Full-Stack Engineering
+      │
+      └── Generative AI
+              │
+              ├── LLMs
+              ├── RAG
+              ├── AI Agents
+              └── Intelligent Applications
+```
+## 🤝 Let's Connect
+<div align="center"> <a href="https://github.com/vikassinghz"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/vikassinghz/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:work.baghel@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <br> <div align="center">
+💡 Code Today. Innovate Tomorrow.
+<br>
 
-<hr style="border-top: 3px solid #6D28D9; margin: 30px 0;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
 
-## 📑 Let's Connect
-
-<div align="center" style="margin: 20px 0;">
-  <a href="https://github.com/vikassinghz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vikassinghz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vs.baghel2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
-<div align="center" style="margin-top: 30px; padding: 20px;">
-  <p style="color: #6D28D9; font-size: 12px;">Made with ❤️ by Vikas Singh Baghel | 📯 © 2026 All Rights Reserved</p>
-</div>
-
-](https://via.placeholder.com/1200x600/1a1a1a/6D28D9?text=AI+FULLSTACK+DEVELOPER)
+</div> 
