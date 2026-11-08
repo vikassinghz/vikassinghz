@@ -18,7 +18,7 @@
         </text>
 
                 <text
-                x="240"
+                x="225"
                 y="48"
                 fill="#8B949E"
                 font-family="Arial, sans-serif"
@@ -27,7 +27,7 @@
                 </text>
 
                 <text
-                x="300"
+                x="285"
                 y="48"
                 fill="#8B949E"
                 font-family="Arial, sans-serif"
@@ -36,7 +36,7 @@
                 </text>
 
                 <text
-                x="825"
+                x="810"
                 y="48"
                 fill="#8B949E"
                 font-family="Arial, sans-serif"
@@ -78,81 +78,11 @@
                 height="12"
                 rx="3"
                 fill="#ebedf0">
-                    <title>0 contributions on 2025-11-02</title>
-                </rect>
-
-                <rect
-                x="45"
-                y="55"
-                width="12"
-                height="12"
-                rx="3"
-                fill="#40c463">
-                    <title>3 contributions on 2025-11-03</title>
-                </rect>
-
-                <rect
-                x="45"
-                y="70"
-                width="12"
-                height="12"
-                rx="3"
-                fill="#40c463">
-                    <title>3 contributions on 2025-11-04</title>
-                </rect>
-
-                <rect
-                x="45"
-                y="85"
-                width="12"
-                height="12"
-                rx="3"
-                fill="#9be9a8">
-                    <title>2 contributions on 2025-11-05</title>
-                </rect>
-
-                <rect
-                x="45"
-                y="100"
-                width="12"
-                height="12"
-                rx="3"
-                fill="#ebedf0">
-                    <title>0 contributions on 2025-11-06</title>
-                </rect>
-
-                <rect
-                x="45"
-                y="115"
-                width="12"
-                height="12"
-                rx="3"
-                fill="#ebedf0">
-                    <title>0 contributions on 2025-11-07</title>
-                </rect>
-
-                <rect
-                x="45"
-                y="130"
-                width="12"
-                height="12"
-                rx="3"
-                fill="#ebedf0">
-                    <title>0 contributions on 2025-11-08</title>
-                </rect>
-
-                <rect
-                x="60"
-                y="40"
-                width="12"
-                height="12"
-                rx="3"
-                fill="#ebedf0">
                     <title>0 contributions on 2025-11-09</title>
                 </rect>
 
                 <rect
-                x="60"
+                x="45"
                 y="55"
                 width="12"
                 height="12"
@@ -162,7 +92,7 @@
                 </rect>
 
                 <rect
-                x="60"
+                x="45"
                 y="70"
                 width="12"
                 height="12"
@@ -172,7 +102,7 @@
                 </rect>
 
                 <rect
-                x="60"
+                x="45"
                 y="85"
                 width="12"
                 height="12"
@@ -182,7 +112,7 @@
                 </rect>
 
                 <rect
-                x="60"
+                x="45"
                 y="100"
                 width="12"
                 height="12"
@@ -192,7 +122,7 @@
                 </rect>
 
                 <rect
-                x="60"
+                x="45"
                 y="115"
                 width="12"
                 height="12"
@@ -202,7 +132,7 @@
                 </rect>
 
                 <rect
-                x="60"
+                x="45"
                 y="130"
                 width="12"
                 height="12"
@@ -212,7 +142,7 @@
                 </rect>
 
                 <rect
-                x="75"
+                x="60"
                 y="40"
                 width="12"
                 height="12"
@@ -222,7 +152,7 @@
                 </rect>
 
                 <rect
-                x="75"
+                x="60"
                 y="55"
                 width="12"
                 height="12"
@@ -232,7 +162,7 @@
                 </rect>
 
                 <rect
-                x="75"
+                x="60"
                 y="70"
                 width="12"
                 height="12"
@@ -242,7 +172,7 @@
                 </rect>
 
                 <rect
-                x="75"
+                x="60"
                 y="85"
                 width="12"
                 height="12"
@@ -252,7 +182,7 @@
                 </rect>
 
                 <rect
-                x="75"
+                x="60"
                 y="100"
                 width="12"
                 height="12"
@@ -262,7 +192,7 @@
                 </rect>
 
                 <rect
-                x="75"
+                x="60"
                 y="115"
                 width="12"
                 height="12"
@@ -272,7 +202,7 @@
                 </rect>
 
                 <rect
-                x="75"
+                x="60"
                 y="130"
                 width="12"
                 height="12"
@@ -282,7 +212,7 @@
                 </rect>
 
                 <rect
-                x="90"
+                x="75"
                 y="40"
                 width="12"
                 height="12"
@@ -292,7 +222,7 @@
                 </rect>
 
                 <rect
-                x="90"
+                x="75"
                 y="55"
                 width="12"
                 height="12"
@@ -302,7 +232,7 @@
                 </rect>
 
                 <rect
-                x="90"
+                x="75"
                 y="70"
                 width="12"
                 height="12"
@@ -312,7 +242,7 @@
                 </rect>
 
                 <rect
-                x="90"
+                x="75"
                 y="85"
                 width="12"
                 height="12"
@@ -322,7 +252,7 @@
                 </rect>
 
                 <rect
-                x="90"
+                x="75"
                 y="100"
                 width="12"
                 height="12"
@@ -332,7 +262,7 @@
                 </rect>
 
                 <rect
-                x="90"
+                x="75"
                 y="115"
                 width="12"
                 height="12"
@@ -342,7 +272,7 @@
                 </rect>
 
                 <rect
-                x="90"
+                x="75"
                 y="130"
                 width="12"
                 height="12"
@@ -352,7 +282,7 @@
                 </rect>
 
                 <rect
-                x="105"
+                x="90"
                 y="40"
                 width="12"
                 height="12"
@@ -362,7 +292,7 @@
                 </rect>
 
                 <rect
-                x="105"
+                x="90"
                 y="55"
                 width="12"
                 height="12"
@@ -372,7 +302,7 @@
                 </rect>
 
                 <rect
-                x="105"
+                x="90"
                 y="70"
                 width="12"
                 height="12"
@@ -382,7 +312,7 @@
                 </rect>
 
                 <rect
-                x="105"
+                x="90"
                 y="85"
                 width="12"
                 height="12"
@@ -392,7 +322,7 @@
                 </rect>
 
                 <rect
-                x="105"
+                x="90"
                 y="100"
                 width="12"
                 height="12"
@@ -402,7 +332,7 @@
                 </rect>
 
                 <rect
-                x="105"
+                x="90"
                 y="115"
                 width="12"
                 height="12"
@@ -412,7 +342,7 @@
                 </rect>
 
                 <rect
-                x="105"
+                x="90"
                 y="130"
                 width="12"
                 height="12"
@@ -422,7 +352,7 @@
                 </rect>
 
                 <rect
-                x="120"
+                x="105"
                 y="40"
                 width="12"
                 height="12"
@@ -432,7 +362,7 @@
                 </rect>
 
                 <rect
-                x="120"
+                x="105"
                 y="55"
                 width="12"
                 height="12"
@@ -442,7 +372,7 @@
                 </rect>
 
                 <rect
-                x="120"
+                x="105"
                 y="70"
                 width="12"
                 height="12"
@@ -452,7 +382,7 @@
                 </rect>
 
                 <rect
-                x="120"
+                x="105"
                 y="85"
                 width="12"
                 height="12"
@@ -462,7 +392,7 @@
                 </rect>
 
                 <rect
-                x="120"
+                x="105"
                 y="100"
                 width="12"
                 height="12"
@@ -472,7 +402,7 @@
                 </rect>
 
                 <rect
-                x="120"
+                x="105"
                 y="115"
                 width="12"
                 height="12"
@@ -482,7 +412,7 @@
                 </rect>
 
                 <rect
-                x="120"
+                x="105"
                 y="130"
                 width="12"
                 height="12"
@@ -492,7 +422,7 @@
                 </rect>
 
                 <rect
-                x="135"
+                x="120"
                 y="40"
                 width="12"
                 height="12"
@@ -502,7 +432,7 @@
                 </rect>
 
                 <rect
-                x="135"
+                x="120"
                 y="55"
                 width="12"
                 height="12"
@@ -512,7 +442,7 @@
                 </rect>
 
                 <rect
-                x="135"
+                x="120"
                 y="70"
                 width="12"
                 height="12"
@@ -522,7 +452,7 @@
                 </rect>
 
                 <rect
-                x="135"
+                x="120"
                 y="85"
                 width="12"
                 height="12"
@@ -532,7 +462,7 @@
                 </rect>
 
                 <rect
-                x="135"
+                x="120"
                 y="100"
                 width="12"
                 height="12"
@@ -542,7 +472,7 @@
                 </rect>
 
                 <rect
-                x="135"
+                x="120"
                 y="115"
                 width="12"
                 height="12"
@@ -552,7 +482,7 @@
                 </rect>
 
                 <rect
-                x="135"
+                x="120"
                 y="130"
                 width="12"
                 height="12"
@@ -562,7 +492,7 @@
                 </rect>
 
                 <rect
-                x="150"
+                x="135"
                 y="40"
                 width="12"
                 height="12"
@@ -572,7 +502,7 @@
                 </rect>
 
                 <rect
-                x="150"
+                x="135"
                 y="55"
                 width="12"
                 height="12"
@@ -582,7 +512,7 @@
                 </rect>
 
                 <rect
-                x="150"
+                x="135"
                 y="70"
                 width="12"
                 height="12"
@@ -592,7 +522,7 @@
                 </rect>
 
                 <rect
-                x="150"
+                x="135"
                 y="85"
                 width="12"
                 height="12"
@@ -602,7 +532,7 @@
                 </rect>
 
                 <rect
-                x="150"
+                x="135"
                 y="100"
                 width="12"
                 height="12"
@@ -612,7 +542,7 @@
                 </rect>
 
                 <rect
-                x="150"
+                x="135"
                 y="115"
                 width="12"
                 height="12"
@@ -622,7 +552,7 @@
                 </rect>
 
                 <rect
-                x="150"
+                x="135"
                 y="130"
                 width="12"
                 height="12"
@@ -632,7 +562,7 @@
                 </rect>
 
                 <rect
-                x="165"
+                x="150"
                 y="40"
                 width="12"
                 height="12"
@@ -642,7 +572,7 @@
                 </rect>
 
                 <rect
-                x="165"
+                x="150"
                 y="55"
                 width="12"
                 height="12"
@@ -652,7 +582,7 @@
                 </rect>
 
                 <rect
-                x="165"
+                x="150"
                 y="70"
                 width="12"
                 height="12"
@@ -662,7 +592,7 @@
                 </rect>
 
                 <rect
-                x="165"
+                x="150"
                 y="85"
                 width="12"
                 height="12"
@@ -672,7 +602,7 @@
                 </rect>
 
                 <rect
-                x="165"
+                x="150"
                 y="100"
                 width="12"
                 height="12"
@@ -682,7 +612,7 @@
                 </rect>
 
                 <rect
-                x="165"
+                x="150"
                 y="115"
                 width="12"
                 height="12"
@@ -692,7 +622,7 @@
                 </rect>
 
                 <rect
-                x="165"
+                x="150"
                 y="130"
                 width="12"
                 height="12"
@@ -702,7 +632,7 @@
                 </rect>
 
                 <rect
-                x="180"
+                x="165"
                 y="40"
                 width="12"
                 height="12"
@@ -712,7 +642,7 @@
                 </rect>
 
                 <rect
-                x="180"
+                x="165"
                 y="55"
                 width="12"
                 height="12"
@@ -722,7 +652,7 @@
                 </rect>
 
                 <rect
-                x="180"
+                x="165"
                 y="70"
                 width="12"
                 height="12"
@@ -732,7 +662,7 @@
                 </rect>
 
                 <rect
-                x="180"
+                x="165"
                 y="85"
                 width="12"
                 height="12"
@@ -742,7 +672,7 @@
                 </rect>
 
                 <rect
-                x="180"
+                x="165"
                 y="100"
                 width="12"
                 height="12"
@@ -752,7 +682,7 @@
                 </rect>
 
                 <rect
-                x="180"
+                x="165"
                 y="115"
                 width="12"
                 height="12"
@@ -762,7 +692,7 @@
                 </rect>
 
                 <rect
-                x="180"
+                x="165"
                 y="130"
                 width="12"
                 height="12"
@@ -772,7 +702,7 @@
                 </rect>
 
                 <rect
-                x="195"
+                x="180"
                 y="40"
                 width="12"
                 height="12"
@@ -782,7 +712,7 @@
                 </rect>
 
                 <rect
-                x="195"
+                x="180"
                 y="55"
                 width="12"
                 height="12"
@@ -792,7 +722,7 @@
                 </rect>
 
                 <rect
-                x="195"
+                x="180"
                 y="70"
                 width="12"
                 height="12"
@@ -802,7 +732,7 @@
                 </rect>
 
                 <rect
-                x="195"
+                x="180"
                 y="85"
                 width="12"
                 height="12"
@@ -812,7 +742,7 @@
                 </rect>
 
                 <rect
-                x="195"
+                x="180"
                 y="100"
                 width="12"
                 height="12"
@@ -822,7 +752,7 @@
                 </rect>
 
                 <rect
-                x="195"
+                x="180"
                 y="115"
                 width="12"
                 height="12"
@@ -832,7 +762,7 @@
                 </rect>
 
                 <rect
-                x="195"
+                x="180"
                 y="130"
                 width="12"
                 height="12"
@@ -842,7 +772,7 @@
                 </rect>
 
                 <rect
-                x="210"
+                x="195"
                 y="40"
                 width="12"
                 height="12"
@@ -852,7 +782,7 @@
                 </rect>
 
                 <rect
-                x="210"
+                x="195"
                 y="55"
                 width="12"
                 height="12"
@@ -862,7 +792,7 @@
                 </rect>
 
                 <rect
-                x="210"
+                x="195"
                 y="70"
                 width="12"
                 height="12"
@@ -872,7 +802,7 @@
                 </rect>
 
                 <rect
-                x="210"
+                x="195"
                 y="85"
                 width="12"
                 height="12"
@@ -882,7 +812,7 @@
                 </rect>
 
                 <rect
-                x="210"
+                x="195"
                 y="100"
                 width="12"
                 height="12"
@@ -892,7 +822,7 @@
                 </rect>
 
                 <rect
-                x="210"
+                x="195"
                 y="115"
                 width="12"
                 height="12"
@@ -902,7 +832,7 @@
                 </rect>
 
                 <rect
-                x="210"
+                x="195"
                 y="130"
                 width="12"
                 height="12"
@@ -912,7 +842,7 @@
                 </rect>
 
                 <rect
-                x="225"
+                x="210"
                 y="40"
                 width="12"
                 height="12"
@@ -922,7 +852,7 @@
                 </rect>
 
                 <rect
-                x="225"
+                x="210"
                 y="55"
                 width="12"
                 height="12"
@@ -932,7 +862,7 @@
                 </rect>
 
                 <rect
-                x="225"
+                x="210"
                 y="70"
                 width="12"
                 height="12"
@@ -942,7 +872,7 @@
                 </rect>
 
                 <rect
-                x="225"
+                x="210"
                 y="85"
                 width="12"
                 height="12"
@@ -952,7 +882,7 @@
                 </rect>
 
                 <rect
-                x="225"
+                x="210"
                 y="100"
                 width="12"
                 height="12"
@@ -962,7 +892,7 @@
                 </rect>
 
                 <rect
-                x="225"
+                x="210"
                 y="115"
                 width="12"
                 height="12"
@@ -972,7 +902,7 @@
                 </rect>
 
                 <rect
-                x="225"
+                x="210"
                 y="130"
                 width="12"
                 height="12"
@@ -982,7 +912,7 @@
                 </rect>
 
                 <rect
-                x="240"
+                x="225"
                 y="40"
                 width="12"
                 height="12"
@@ -992,7 +922,7 @@
                 </rect>
 
                 <rect
-                x="240"
+                x="225"
                 y="55"
                 width="12"
                 height="12"
@@ -1002,7 +932,7 @@
                 </rect>
 
                 <rect
-                x="240"
+                x="225"
                 y="70"
                 width="12"
                 height="12"
@@ -1012,7 +942,7 @@
                 </rect>
 
                 <rect
-                x="240"
+                x="225"
                 y="85"
                 width="12"
                 height="12"
@@ -1022,7 +952,7 @@
                 </rect>
 
                 <rect
-                x="240"
+                x="225"
                 y="100"
                 width="12"
                 height="12"
@@ -1032,7 +962,7 @@
                 </rect>
 
                 <rect
-                x="240"
+                x="225"
                 y="115"
                 width="12"
                 height="12"
@@ -1042,7 +972,7 @@
                 </rect>
 
                 <rect
-                x="240"
+                x="225"
                 y="130"
                 width="12"
                 height="12"
@@ -1052,7 +982,7 @@
                 </rect>
 
                 <rect
-                x="255"
+                x="240"
                 y="40"
                 width="12"
                 height="12"
@@ -1062,7 +992,7 @@
                 </rect>
 
                 <rect
-                x="255"
+                x="240"
                 y="55"
                 width="12"
                 height="12"
@@ -1072,7 +1002,7 @@
                 </rect>
 
                 <rect
-                x="255"
+                x="240"
                 y="70"
                 width="12"
                 height="12"
@@ -1082,7 +1012,7 @@
                 </rect>
 
                 <rect
-                x="255"
+                x="240"
                 y="85"
                 width="12"
                 height="12"
@@ -1092,7 +1022,7 @@
                 </rect>
 
                 <rect
-                x="255"
+                x="240"
                 y="100"
                 width="12"
                 height="12"
@@ -1102,7 +1032,7 @@
                 </rect>
 
                 <rect
-                x="255"
+                x="240"
                 y="115"
                 width="12"
                 height="12"
@@ -1112,7 +1042,7 @@
                 </rect>
 
                 <rect
-                x="255"
+                x="240"
                 y="130"
                 width="12"
                 height="12"
@@ -1122,7 +1052,7 @@
                 </rect>
 
                 <rect
-                x="270"
+                x="255"
                 y="40"
                 width="12"
                 height="12"
@@ -1132,7 +1062,7 @@
                 </rect>
 
                 <rect
-                x="270"
+                x="255"
                 y="55"
                 width="12"
                 height="12"
@@ -1142,7 +1072,7 @@
                 </rect>
 
                 <rect
-                x="270"
+                x="255"
                 y="70"
                 width="12"
                 height="12"
@@ -1152,7 +1082,7 @@
                 </rect>
 
                 <rect
-                x="270"
+                x="255"
                 y="85"
                 width="12"
                 height="12"
@@ -1162,7 +1092,7 @@
                 </rect>
 
                 <rect
-                x="270"
+                x="255"
                 y="100"
                 width="12"
                 height="12"
@@ -1172,7 +1102,7 @@
                 </rect>
 
                 <rect
-                x="270"
+                x="255"
                 y="115"
                 width="12"
                 height="12"
@@ -1182,7 +1112,7 @@
                 </rect>
 
                 <rect
-                x="270"
+                x="255"
                 y="130"
                 width="12"
                 height="12"
@@ -1192,7 +1122,7 @@
                 </rect>
 
                 <rect
-                x="285"
+                x="270"
                 y="40"
                 width="12"
                 height="12"
@@ -1202,7 +1132,7 @@
                 </rect>
 
                 <rect
-                x="285"
+                x="270"
                 y="55"
                 width="12"
                 height="12"
@@ -1212,7 +1142,7 @@
                 </rect>
 
                 <rect
-                x="285"
+                x="270"
                 y="70"
                 width="12"
                 height="12"
@@ -1222,7 +1152,7 @@
                 </rect>
 
                 <rect
-                x="285"
+                x="270"
                 y="85"
                 width="12"
                 height="12"
@@ -1232,7 +1162,7 @@
                 </rect>
 
                 <rect
-                x="285"
+                x="270"
                 y="100"
                 width="12"
                 height="12"
@@ -1242,7 +1172,7 @@
                 </rect>
 
                 <rect
-                x="285"
+                x="270"
                 y="115"
                 width="12"
                 height="12"
@@ -1252,7 +1182,7 @@
                 </rect>
 
                 <rect
-                x="285"
+                x="270"
                 y="130"
                 width="12"
                 height="12"
@@ -1262,7 +1192,7 @@
                 </rect>
 
                 <rect
-                x="300"
+                x="285"
                 y="40"
                 width="12"
                 height="12"
@@ -1272,7 +1202,7 @@
                 </rect>
 
                 <rect
-                x="300"
+                x="285"
                 y="55"
                 width="12"
                 height="12"
@@ -1282,7 +1212,7 @@
                 </rect>
 
                 <rect
-                x="300"
+                x="285"
                 y="70"
                 width="12"
                 height="12"
@@ -1292,7 +1222,7 @@
                 </rect>
 
                 <rect
-                x="300"
+                x="285"
                 y="85"
                 width="12"
                 height="12"
@@ -1302,7 +1232,7 @@
                 </rect>
 
                 <rect
-                x="300"
+                x="285"
                 y="100"
                 width="12"
                 height="12"
@@ -1312,7 +1242,7 @@
                 </rect>
 
                 <rect
-                x="300"
+                x="285"
                 y="115"
                 width="12"
                 height="12"
@@ -1322,7 +1252,7 @@
                 </rect>
 
                 <rect
-                x="300"
+                x="285"
                 y="130"
                 width="12"
                 height="12"
@@ -1332,7 +1262,7 @@
                 </rect>
 
                 <rect
-                x="315"
+                x="300"
                 y="40"
                 width="12"
                 height="12"
@@ -1342,7 +1272,7 @@
                 </rect>
 
                 <rect
-                x="315"
+                x="300"
                 y="55"
                 width="12"
                 height="12"
@@ -1352,7 +1282,7 @@
                 </rect>
 
                 <rect
-                x="315"
+                x="300"
                 y="70"
                 width="12"
                 height="12"
@@ -1362,7 +1292,7 @@
                 </rect>
 
                 <rect
-                x="315"
+                x="300"
                 y="85"
                 width="12"
                 height="12"
@@ -1372,7 +1302,7 @@
                 </rect>
 
                 <rect
-                x="315"
+                x="300"
                 y="100"
                 width="12"
                 height="12"
@@ -1382,7 +1312,7 @@
                 </rect>
 
                 <rect
-                x="315"
+                x="300"
                 y="115"
                 width="12"
                 height="12"
@@ -1392,7 +1322,7 @@
                 </rect>
 
                 <rect
-                x="315"
+                x="300"
                 y="130"
                 width="12"
                 height="12"
@@ -1402,7 +1332,7 @@
                 </rect>
 
                 <rect
-                x="330"
+                x="315"
                 y="40"
                 width="12"
                 height="12"
@@ -1412,7 +1342,7 @@
                 </rect>
 
                 <rect
-                x="330"
+                x="315"
                 y="55"
                 width="12"
                 height="12"
@@ -1422,7 +1352,7 @@
                 </rect>
 
                 <rect
-                x="330"
+                x="315"
                 y="70"
                 width="12"
                 height="12"
@@ -1432,7 +1362,7 @@
                 </rect>
 
                 <rect
-                x="330"
+                x="315"
                 y="85"
                 width="12"
                 height="12"
@@ -1442,7 +1372,7 @@
                 </rect>
 
                 <rect
-                x="330"
+                x="315"
                 y="100"
                 width="12"
                 height="12"
@@ -1452,7 +1382,7 @@
                 </rect>
 
                 <rect
-                x="330"
+                x="315"
                 y="115"
                 width="12"
                 height="12"
@@ -1462,7 +1392,7 @@
                 </rect>
 
                 <rect
-                x="330"
+                x="315"
                 y="130"
                 width="12"
                 height="12"
@@ -1472,7 +1402,7 @@
                 </rect>
 
                 <rect
-                x="345"
+                x="330"
                 y="40"
                 width="12"
                 height="12"
@@ -1482,7 +1412,7 @@
                 </rect>
 
                 <rect
-                x="345"
+                x="330"
                 y="55"
                 width="12"
                 height="12"
@@ -1492,7 +1422,7 @@
                 </rect>
 
                 <rect
-                x="345"
+                x="330"
                 y="70"
                 width="12"
                 height="12"
@@ -1502,7 +1432,7 @@
                 </rect>
 
                 <rect
-                x="345"
+                x="330"
                 y="85"
                 width="12"
                 height="12"
@@ -1512,7 +1442,7 @@
                 </rect>
 
                 <rect
-                x="345"
+                x="330"
                 y="100"
                 width="12"
                 height="12"
@@ -1522,7 +1452,7 @@
                 </rect>
 
                 <rect
-                x="345"
+                x="330"
                 y="115"
                 width="12"
                 height="12"
@@ -1532,7 +1462,7 @@
                 </rect>
 
                 <rect
-                x="345"
+                x="330"
                 y="130"
                 width="12"
                 height="12"
@@ -1542,7 +1472,7 @@
                 </rect>
 
                 <rect
-                x="360"
+                x="345"
                 y="40"
                 width="12"
                 height="12"
@@ -1552,7 +1482,7 @@
                 </rect>
 
                 <rect
-                x="360"
+                x="345"
                 y="55"
                 width="12"
                 height="12"
@@ -1562,7 +1492,7 @@
                 </rect>
 
                 <rect
-                x="360"
+                x="345"
                 y="70"
                 width="12"
                 height="12"
@@ -1572,7 +1502,7 @@
                 </rect>
 
                 <rect
-                x="360"
+                x="345"
                 y="85"
                 width="12"
                 height="12"
@@ -1582,7 +1512,7 @@
                 </rect>
 
                 <rect
-                x="360"
+                x="345"
                 y="100"
                 width="12"
                 height="12"
@@ -1592,7 +1522,7 @@
                 </rect>
 
                 <rect
-                x="360"
+                x="345"
                 y="115"
                 width="12"
                 height="12"
@@ -1602,7 +1532,7 @@
                 </rect>
 
                 <rect
-                x="360"
+                x="345"
                 y="130"
                 width="12"
                 height="12"
@@ -1612,7 +1542,7 @@
                 </rect>
 
                 <rect
-                x="375"
+                x="360"
                 y="40"
                 width="12"
                 height="12"
@@ -1622,7 +1552,7 @@
                 </rect>
 
                 <rect
-                x="375"
+                x="360"
                 y="55"
                 width="12"
                 height="12"
@@ -1632,7 +1562,7 @@
                 </rect>
 
                 <rect
-                x="375"
+                x="360"
                 y="70"
                 width="12"
                 height="12"
@@ -1642,7 +1572,7 @@
                 </rect>
 
                 <rect
-                x="375"
+                x="360"
                 y="85"
                 width="12"
                 height="12"
@@ -1652,7 +1582,7 @@
                 </rect>
 
                 <rect
-                x="375"
+                x="360"
                 y="100"
                 width="12"
                 height="12"
@@ -1662,7 +1592,7 @@
                 </rect>
 
                 <rect
-                x="375"
+                x="360"
                 y="115"
                 width="12"
                 height="12"
@@ -1672,7 +1602,7 @@
                 </rect>
 
                 <rect
-                x="375"
+                x="360"
                 y="130"
                 width="12"
                 height="12"
@@ -1682,7 +1612,7 @@
                 </rect>
 
                 <rect
-                x="390"
+                x="375"
                 y="40"
                 width="12"
                 height="12"
@@ -1692,7 +1622,7 @@
                 </rect>
 
                 <rect
-                x="390"
+                x="375"
                 y="55"
                 width="12"
                 height="12"
@@ -1702,7 +1632,7 @@
                 </rect>
 
                 <rect
-                x="390"
+                x="375"
                 y="70"
                 width="12"
                 height="12"
@@ -1712,7 +1642,7 @@
                 </rect>
 
                 <rect
-                x="390"
+                x="375"
                 y="85"
                 width="12"
                 height="12"
@@ -1722,7 +1652,7 @@
                 </rect>
 
                 <rect
-                x="390"
+                x="375"
                 y="100"
                 width="12"
                 height="12"
@@ -1732,7 +1662,7 @@
                 </rect>
 
                 <rect
-                x="390"
+                x="375"
                 y="115"
                 width="12"
                 height="12"
@@ -1742,7 +1672,7 @@
                 </rect>
 
                 <rect
-                x="390"
+                x="375"
                 y="130"
                 width="12"
                 height="12"
@@ -1752,7 +1682,7 @@
                 </rect>
 
                 <rect
-                x="405"
+                x="390"
                 y="40"
                 width="12"
                 height="12"
@@ -1762,7 +1692,7 @@
                 </rect>
 
                 <rect
-                x="405"
+                x="390"
                 y="55"
                 width="12"
                 height="12"
@@ -1772,7 +1702,7 @@
                 </rect>
 
                 <rect
-                x="405"
+                x="390"
                 y="70"
                 width="12"
                 height="12"
@@ -1782,7 +1712,7 @@
                 </rect>
 
                 <rect
-                x="405"
+                x="390"
                 y="85"
                 width="12"
                 height="12"
@@ -1792,7 +1722,7 @@
                 </rect>
 
                 <rect
-                x="405"
+                x="390"
                 y="100"
                 width="12"
                 height="12"
@@ -1802,7 +1732,7 @@
                 </rect>
 
                 <rect
-                x="405"
+                x="390"
                 y="115"
                 width="12"
                 height="12"
@@ -1812,7 +1742,7 @@
                 </rect>
 
                 <rect
-                x="405"
+                x="390"
                 y="130"
                 width="12"
                 height="12"
@@ -1822,7 +1752,7 @@
                 </rect>
 
                 <rect
-                x="420"
+                x="405"
                 y="40"
                 width="12"
                 height="12"
@@ -1832,7 +1762,7 @@
                 </rect>
 
                 <rect
-                x="420"
+                x="405"
                 y="55"
                 width="12"
                 height="12"
@@ -1842,7 +1772,7 @@
                 </rect>
 
                 <rect
-                x="420"
+                x="405"
                 y="70"
                 width="12"
                 height="12"
@@ -1852,7 +1782,7 @@
                 </rect>
 
                 <rect
-                x="420"
+                x="405"
                 y="85"
                 width="12"
                 height="12"
@@ -1862,7 +1792,7 @@
                 </rect>
 
                 <rect
-                x="420"
+                x="405"
                 y="100"
                 width="12"
                 height="12"
@@ -1872,7 +1802,7 @@
                 </rect>
 
                 <rect
-                x="420"
+                x="405"
                 y="115"
                 width="12"
                 height="12"
@@ -1882,7 +1812,7 @@
                 </rect>
 
                 <rect
-                x="420"
+                x="405"
                 y="130"
                 width="12"
                 height="12"
@@ -1892,7 +1822,7 @@
                 </rect>
 
                 <rect
-                x="435"
+                x="420"
                 y="40"
                 width="12"
                 height="12"
@@ -1902,7 +1832,7 @@
                 </rect>
 
                 <rect
-                x="435"
+                x="420"
                 y="55"
                 width="12"
                 height="12"
@@ -1912,7 +1842,7 @@
                 </rect>
 
                 <rect
-                x="435"
+                x="420"
                 y="70"
                 width="12"
                 height="12"
@@ -1922,7 +1852,7 @@
                 </rect>
 
                 <rect
-                x="435"
+                x="420"
                 y="85"
                 width="12"
                 height="12"
@@ -1932,7 +1862,7 @@
                 </rect>
 
                 <rect
-                x="435"
+                x="420"
                 y="100"
                 width="12"
                 height="12"
@@ -1942,7 +1872,7 @@
                 </rect>
 
                 <rect
-                x="435"
+                x="420"
                 y="115"
                 width="12"
                 height="12"
@@ -1952,7 +1882,7 @@
                 </rect>
 
                 <rect
-                x="435"
+                x="420"
                 y="130"
                 width="12"
                 height="12"
@@ -1962,7 +1892,7 @@
                 </rect>
 
                 <rect
-                x="450"
+                x="435"
                 y="40"
                 width="12"
                 height="12"
@@ -1972,7 +1902,7 @@
                 </rect>
 
                 <rect
-                x="450"
+                x="435"
                 y="55"
                 width="12"
                 height="12"
@@ -1982,7 +1912,7 @@
                 </rect>
 
                 <rect
-                x="450"
+                x="435"
                 y="70"
                 width="12"
                 height="12"
@@ -1992,7 +1922,7 @@
                 </rect>
 
                 <rect
-                x="450"
+                x="435"
                 y="85"
                 width="12"
                 height="12"
@@ -2002,7 +1932,7 @@
                 </rect>
 
                 <rect
-                x="450"
+                x="435"
                 y="100"
                 width="12"
                 height="12"
@@ -2012,7 +1942,7 @@
                 </rect>
 
                 <rect
-                x="450"
+                x="435"
                 y="115"
                 width="12"
                 height="12"
@@ -2022,7 +1952,7 @@
                 </rect>
 
                 <rect
-                x="450"
+                x="435"
                 y="130"
                 width="12"
                 height="12"
@@ -2032,7 +1962,7 @@
                 </rect>
 
                 <rect
-                x="465"
+                x="450"
                 y="40"
                 width="12"
                 height="12"
@@ -2042,7 +1972,7 @@
                 </rect>
 
                 <rect
-                x="465"
+                x="450"
                 y="55"
                 width="12"
                 height="12"
@@ -2052,7 +1982,7 @@
                 </rect>
 
                 <rect
-                x="465"
+                x="450"
                 y="70"
                 width="12"
                 height="12"
@@ -2062,7 +1992,7 @@
                 </rect>
 
                 <rect
-                x="465"
+                x="450"
                 y="85"
                 width="12"
                 height="12"
@@ -2072,7 +2002,7 @@
                 </rect>
 
                 <rect
-                x="465"
+                x="450"
                 y="100"
                 width="12"
                 height="12"
@@ -2082,7 +2012,7 @@
                 </rect>
 
                 <rect
-                x="465"
+                x="450"
                 y="115"
                 width="12"
                 height="12"
@@ -2092,7 +2022,7 @@
                 </rect>
 
                 <rect
-                x="465"
+                x="450"
                 y="130"
                 width="12"
                 height="12"
@@ -2102,7 +2032,7 @@
                 </rect>
 
                 <rect
-                x="480"
+                x="465"
                 y="40"
                 width="12"
                 height="12"
@@ -2112,7 +2042,7 @@
                 </rect>
 
                 <rect
-                x="480"
+                x="465"
                 y="55"
                 width="12"
                 height="12"
@@ -2122,7 +2052,7 @@
                 </rect>
 
                 <rect
-                x="480"
+                x="465"
                 y="70"
                 width="12"
                 height="12"
@@ -2132,7 +2062,7 @@
                 </rect>
 
                 <rect
-                x="480"
+                x="465"
                 y="85"
                 width="12"
                 height="12"
@@ -2142,7 +2072,7 @@
                 </rect>
 
                 <rect
-                x="480"
+                x="465"
                 y="100"
                 width="12"
                 height="12"
@@ -2152,7 +2082,7 @@
                 </rect>
 
                 <rect
-                x="480"
+                x="465"
                 y="115"
                 width="12"
                 height="12"
@@ -2162,7 +2092,7 @@
                 </rect>
 
                 <rect
-                x="480"
+                x="465"
                 y="130"
                 width="12"
                 height="12"
@@ -2172,7 +2102,7 @@
                 </rect>
 
                 <rect
-                x="495"
+                x="480"
                 y="40"
                 width="12"
                 height="12"
@@ -2182,7 +2112,7 @@
                 </rect>
 
                 <rect
-                x="495"
+                x="480"
                 y="55"
                 width="12"
                 height="12"
@@ -2192,7 +2122,7 @@
                 </rect>
 
                 <rect
-                x="495"
+                x="480"
                 y="70"
                 width="12"
                 height="12"
@@ -2202,7 +2132,7 @@
                 </rect>
 
                 <rect
-                x="495"
+                x="480"
                 y="85"
                 width="12"
                 height="12"
@@ -2212,7 +2142,7 @@
                 </rect>
 
                 <rect
-                x="495"
+                x="480"
                 y="100"
                 width="12"
                 height="12"
@@ -2222,7 +2152,7 @@
                 </rect>
 
                 <rect
-                x="495"
+                x="480"
                 y="115"
                 width="12"
                 height="12"
@@ -2232,7 +2162,7 @@
                 </rect>
 
                 <rect
-                x="495"
+                x="480"
                 y="130"
                 width="12"
                 height="12"
@@ -2242,7 +2172,7 @@
                 </rect>
 
                 <rect
-                x="510"
+                x="495"
                 y="40"
                 width="12"
                 height="12"
@@ -2252,7 +2182,7 @@
                 </rect>
 
                 <rect
-                x="510"
+                x="495"
                 y="55"
                 width="12"
                 height="12"
@@ -2262,7 +2192,7 @@
                 </rect>
 
                 <rect
-                x="510"
+                x="495"
                 y="70"
                 width="12"
                 height="12"
@@ -2272,7 +2202,7 @@
                 </rect>
 
                 <rect
-                x="510"
+                x="495"
                 y="85"
                 width="12"
                 height="12"
@@ -2282,7 +2212,7 @@
                 </rect>
 
                 <rect
-                x="510"
+                x="495"
                 y="100"
                 width="12"
                 height="12"
@@ -2292,7 +2222,7 @@
                 </rect>
 
                 <rect
-                x="510"
+                x="495"
                 y="115"
                 width="12"
                 height="12"
@@ -2302,7 +2232,7 @@
                 </rect>
 
                 <rect
-                x="510"
+                x="495"
                 y="130"
                 width="12"
                 height="12"
@@ -2312,7 +2242,7 @@
                 </rect>
 
                 <rect
-                x="525"
+                x="510"
                 y="40"
                 width="12"
                 height="12"
@@ -2322,7 +2252,7 @@
                 </rect>
 
                 <rect
-                x="525"
+                x="510"
                 y="55"
                 width="12"
                 height="12"
@@ -2332,7 +2262,7 @@
                 </rect>
 
                 <rect
-                x="525"
+                x="510"
                 y="70"
                 width="12"
                 height="12"
@@ -2342,7 +2272,7 @@
                 </rect>
 
                 <rect
-                x="525"
+                x="510"
                 y="85"
                 width="12"
                 height="12"
@@ -2352,7 +2282,7 @@
                 </rect>
 
                 <rect
-                x="525"
+                x="510"
                 y="100"
                 width="12"
                 height="12"
@@ -2362,7 +2292,7 @@
                 </rect>
 
                 <rect
-                x="525"
+                x="510"
                 y="115"
                 width="12"
                 height="12"
@@ -2372,7 +2302,7 @@
                 </rect>
 
                 <rect
-                x="525"
+                x="510"
                 y="130"
                 width="12"
                 height="12"
@@ -2382,7 +2312,7 @@
                 </rect>
 
                 <rect
-                x="540"
+                x="525"
                 y="40"
                 width="12"
                 height="12"
@@ -2392,7 +2322,7 @@
                 </rect>
 
                 <rect
-                x="540"
+                x="525"
                 y="55"
                 width="12"
                 height="12"
@@ -2402,7 +2332,7 @@
                 </rect>
 
                 <rect
-                x="540"
+                x="525"
                 y="70"
                 width="12"
                 height="12"
@@ -2412,7 +2342,7 @@
                 </rect>
 
                 <rect
-                x="540"
+                x="525"
                 y="85"
                 width="12"
                 height="12"
@@ -2422,7 +2352,7 @@
                 </rect>
 
                 <rect
-                x="540"
+                x="525"
                 y="100"
                 width="12"
                 height="12"
@@ -2432,7 +2362,7 @@
                 </rect>
 
                 <rect
-                x="540"
+                x="525"
                 y="115"
                 width="12"
                 height="12"
@@ -2442,7 +2372,7 @@
                 </rect>
 
                 <rect
-                x="540"
+                x="525"
                 y="130"
                 width="12"
                 height="12"
@@ -2452,7 +2382,7 @@
                 </rect>
 
                 <rect
-                x="555"
+                x="540"
                 y="40"
                 width="12"
                 height="12"
@@ -2462,7 +2392,7 @@
                 </rect>
 
                 <rect
-                x="555"
+                x="540"
                 y="55"
                 width="12"
                 height="12"
@@ -2472,7 +2402,7 @@
                 </rect>
 
                 <rect
-                x="555"
+                x="540"
                 y="70"
                 width="12"
                 height="12"
@@ -2482,7 +2412,7 @@
                 </rect>
 
                 <rect
-                x="555"
+                x="540"
                 y="85"
                 width="12"
                 height="12"
@@ -2492,7 +2422,7 @@
                 </rect>
 
                 <rect
-                x="555"
+                x="540"
                 y="100"
                 width="12"
                 height="12"
@@ -2502,7 +2432,7 @@
                 </rect>
 
                 <rect
-                x="555"
+                x="540"
                 y="115"
                 width="12"
                 height="12"
@@ -2512,7 +2442,7 @@
                 </rect>
 
                 <rect
-                x="555"
+                x="540"
                 y="130"
                 width="12"
                 height="12"
@@ -2522,7 +2452,7 @@
                 </rect>
 
                 <rect
-                x="570"
+                x="555"
                 y="40"
                 width="12"
                 height="12"
@@ -2532,7 +2462,7 @@
                 </rect>
 
                 <rect
-                x="570"
+                x="555"
                 y="55"
                 width="12"
                 height="12"
@@ -2542,7 +2472,7 @@
                 </rect>
 
                 <rect
-                x="570"
+                x="555"
                 y="70"
                 width="12"
                 height="12"
@@ -2552,7 +2482,7 @@
                 </rect>
 
                 <rect
-                x="570"
+                x="555"
                 y="85"
                 width="12"
                 height="12"
@@ -2562,7 +2492,7 @@
                 </rect>
 
                 <rect
-                x="570"
+                x="555"
                 y="100"
                 width="12"
                 height="12"
@@ -2572,7 +2502,7 @@
                 </rect>
 
                 <rect
-                x="570"
+                x="555"
                 y="115"
                 width="12"
                 height="12"
@@ -2582,7 +2512,7 @@
                 </rect>
 
                 <rect
-                x="570"
+                x="555"
                 y="130"
                 width="12"
                 height="12"
@@ -2592,7 +2522,7 @@
                 </rect>
 
                 <rect
-                x="585"
+                x="570"
                 y="40"
                 width="12"
                 height="12"
@@ -2602,7 +2532,7 @@
                 </rect>
 
                 <rect
-                x="585"
+                x="570"
                 y="55"
                 width="12"
                 height="12"
@@ -2612,7 +2542,7 @@
                 </rect>
 
                 <rect
-                x="585"
+                x="570"
                 y="70"
                 width="12"
                 height="12"
@@ -2622,7 +2552,7 @@
                 </rect>
 
                 <rect
-                x="585"
+                x="570"
                 y="85"
                 width="12"
                 height="12"
@@ -2632,7 +2562,7 @@
                 </rect>
 
                 <rect
-                x="585"
+                x="570"
                 y="100"
                 width="12"
                 height="12"
@@ -2642,7 +2572,7 @@
                 </rect>
 
                 <rect
-                x="585"
+                x="570"
                 y="115"
                 width="12"
                 height="12"
@@ -2652,7 +2582,7 @@
                 </rect>
 
                 <rect
-                x="585"
+                x="570"
                 y="130"
                 width="12"
                 height="12"
@@ -2662,7 +2592,7 @@
                 </rect>
 
                 <rect
-                x="600"
+                x="585"
                 y="40"
                 width="12"
                 height="12"
@@ -2672,7 +2602,7 @@
                 </rect>
 
                 <rect
-                x="600"
+                x="585"
                 y="55"
                 width="12"
                 height="12"
@@ -2682,7 +2612,7 @@
                 </rect>
 
                 <rect
-                x="600"
+                x="585"
                 y="70"
                 width="12"
                 height="12"
@@ -2692,7 +2622,7 @@
                 </rect>
 
                 <rect
-                x="600"
+                x="585"
                 y="85"
                 width="12"
                 height="12"
@@ -2702,7 +2632,7 @@
                 </rect>
 
                 <rect
-                x="600"
+                x="585"
                 y="100"
                 width="12"
                 height="12"
@@ -2712,7 +2642,7 @@
                 </rect>
 
                 <rect
-                x="600"
+                x="585"
                 y="115"
                 width="12"
                 height="12"
@@ -2722,7 +2652,7 @@
                 </rect>
 
                 <rect
-                x="600"
+                x="585"
                 y="130"
                 width="12"
                 height="12"
@@ -2732,7 +2662,7 @@
                 </rect>
 
                 <rect
-                x="615"
+                x="600"
                 y="40"
                 width="12"
                 height="12"
@@ -2742,7 +2672,7 @@
                 </rect>
 
                 <rect
-                x="615"
+                x="600"
                 y="55"
                 width="12"
                 height="12"
@@ -2752,7 +2682,7 @@
                 </rect>
 
                 <rect
-                x="615"
+                x="600"
                 y="70"
                 width="12"
                 height="12"
@@ -2762,7 +2692,7 @@
                 </rect>
 
                 <rect
-                x="615"
+                x="600"
                 y="85"
                 width="12"
                 height="12"
@@ -2772,7 +2702,7 @@
                 </rect>
 
                 <rect
-                x="615"
+                x="600"
                 y="100"
                 width="12"
                 height="12"
@@ -2782,7 +2712,7 @@
                 </rect>
 
                 <rect
-                x="615"
+                x="600"
                 y="115"
                 width="12"
                 height="12"
@@ -2792,7 +2722,7 @@
                 </rect>
 
                 <rect
-                x="615"
+                x="600"
                 y="130"
                 width="12"
                 height="12"
@@ -2802,7 +2732,7 @@
                 </rect>
 
                 <rect
-                x="630"
+                x="615"
                 y="40"
                 width="12"
                 height="12"
@@ -2812,7 +2742,7 @@
                 </rect>
 
                 <rect
-                x="630"
+                x="615"
                 y="55"
                 width="12"
                 height="12"
@@ -2822,7 +2752,7 @@
                 </rect>
 
                 <rect
-                x="630"
+                x="615"
                 y="70"
                 width="12"
                 height="12"
@@ -2832,7 +2762,7 @@
                 </rect>
 
                 <rect
-                x="630"
+                x="615"
                 y="85"
                 width="12"
                 height="12"
@@ -2842,7 +2772,7 @@
                 </rect>
 
                 <rect
-                x="630"
+                x="615"
                 y="100"
                 width="12"
                 height="12"
@@ -2852,7 +2782,7 @@
                 </rect>
 
                 <rect
-                x="630"
+                x="615"
                 y="115"
                 width="12"
                 height="12"
@@ -2862,7 +2792,7 @@
                 </rect>
 
                 <rect
-                x="630"
+                x="615"
                 y="130"
                 width="12"
                 height="12"
@@ -2872,7 +2802,7 @@
                 </rect>
 
                 <rect
-                x="645"
+                x="630"
                 y="40"
                 width="12"
                 height="12"
@@ -2882,7 +2812,7 @@
                 </rect>
 
                 <rect
-                x="645"
+                x="630"
                 y="55"
                 width="12"
                 height="12"
@@ -2892,7 +2822,7 @@
                 </rect>
 
                 <rect
-                x="645"
+                x="630"
                 y="70"
                 width="12"
                 height="12"
@@ -2902,7 +2832,7 @@
                 </rect>
 
                 <rect
-                x="645"
+                x="630"
                 y="85"
                 width="12"
                 height="12"
@@ -2912,7 +2842,7 @@
                 </rect>
 
                 <rect
-                x="645"
+                x="630"
                 y="100"
                 width="12"
                 height="12"
@@ -2922,7 +2852,7 @@
                 </rect>
 
                 <rect
-                x="645"
+                x="630"
                 y="115"
                 width="12"
                 height="12"
@@ -2932,7 +2862,7 @@
                 </rect>
 
                 <rect
-                x="645"
+                x="630"
                 y="130"
                 width="12"
                 height="12"
@@ -2942,7 +2872,7 @@
                 </rect>
 
                 <rect
-                x="660"
+                x="645"
                 y="40"
                 width="12"
                 height="12"
@@ -2952,7 +2882,7 @@
                 </rect>
 
                 <rect
-                x="660"
+                x="645"
                 y="55"
                 width="12"
                 height="12"
@@ -2962,7 +2892,7 @@
                 </rect>
 
                 <rect
-                x="660"
+                x="645"
                 y="70"
                 width="12"
                 height="12"
@@ -2972,7 +2902,7 @@
                 </rect>
 
                 <rect
-                x="660"
+                x="645"
                 y="85"
                 width="12"
                 height="12"
@@ -2982,7 +2912,7 @@
                 </rect>
 
                 <rect
-                x="660"
+                x="645"
                 y="100"
                 width="12"
                 height="12"
@@ -2992,7 +2922,7 @@
                 </rect>
 
                 <rect
-                x="660"
+                x="645"
                 y="115"
                 width="12"
                 height="12"
@@ -3002,7 +2932,7 @@
                 </rect>
 
                 <rect
-                x="660"
+                x="645"
                 y="130"
                 width="12"
                 height="12"
@@ -3012,7 +2942,7 @@
                 </rect>
 
                 <rect
-                x="675"
+                x="660"
                 y="40"
                 width="12"
                 height="12"
@@ -3022,7 +2952,7 @@
                 </rect>
 
                 <rect
-                x="675"
+                x="660"
                 y="55"
                 width="12"
                 height="12"
@@ -3032,7 +2962,7 @@
                 </rect>
 
                 <rect
-                x="675"
+                x="660"
                 y="70"
                 width="12"
                 height="12"
@@ -3042,7 +2972,7 @@
                 </rect>
 
                 <rect
-                x="675"
+                x="660"
                 y="85"
                 width="12"
                 height="12"
@@ -3052,7 +2982,7 @@
                 </rect>
 
                 <rect
-                x="675"
+                x="660"
                 y="100"
                 width="12"
                 height="12"
@@ -3062,7 +2992,7 @@
                 </rect>
 
                 <rect
-                x="675"
+                x="660"
                 y="115"
                 width="12"
                 height="12"
@@ -3072,7 +3002,7 @@
                 </rect>
 
                 <rect
-                x="675"
+                x="660"
                 y="130"
                 width="12"
                 height="12"
@@ -3082,7 +3012,7 @@
                 </rect>
 
                 <rect
-                x="690"
+                x="675"
                 y="40"
                 width="12"
                 height="12"
@@ -3092,7 +3022,7 @@
                 </rect>
 
                 <rect
-                x="690"
+                x="675"
                 y="55"
                 width="12"
                 height="12"
@@ -3102,7 +3032,7 @@
                 </rect>
 
                 <rect
-                x="690"
+                x="675"
                 y="70"
                 width="12"
                 height="12"
@@ -3112,7 +3042,7 @@
                 </rect>
 
                 <rect
-                x="690"
+                x="675"
                 y="85"
                 width="12"
                 height="12"
@@ -3122,7 +3052,7 @@
                 </rect>
 
                 <rect
-                x="690"
+                x="675"
                 y="100"
                 width="12"
                 height="12"
@@ -3132,7 +3062,7 @@
                 </rect>
 
                 <rect
-                x="690"
+                x="675"
                 y="115"
                 width="12"
                 height="12"
@@ -3142,7 +3072,7 @@
                 </rect>
 
                 <rect
-                x="690"
+                x="675"
                 y="130"
                 width="12"
                 height="12"
@@ -3152,7 +3082,7 @@
                 </rect>
 
                 <rect
-                x="705"
+                x="690"
                 y="40"
                 width="12"
                 height="12"
@@ -3162,7 +3092,7 @@
                 </rect>
 
                 <rect
-                x="705"
+                x="690"
                 y="55"
                 width="12"
                 height="12"
@@ -3172,7 +3102,7 @@
                 </rect>
 
                 <rect
-                x="705"
+                x="690"
                 y="70"
                 width="12"
                 height="12"
@@ -3182,7 +3112,7 @@
                 </rect>
 
                 <rect
-                x="705"
+                x="690"
                 y="85"
                 width="12"
                 height="12"
@@ -3192,7 +3122,7 @@
                 </rect>
 
                 <rect
-                x="705"
+                x="690"
                 y="100"
                 width="12"
                 height="12"
@@ -3202,7 +3132,7 @@
                 </rect>
 
                 <rect
-                x="705"
+                x="690"
                 y="115"
                 width="12"
                 height="12"
@@ -3212,7 +3142,7 @@
                 </rect>
 
                 <rect
-                x="705"
+                x="690"
                 y="130"
                 width="12"
                 height="12"
@@ -3222,7 +3152,7 @@
                 </rect>
 
                 <rect
-                x="720"
+                x="705"
                 y="40"
                 width="12"
                 height="12"
@@ -3232,7 +3162,7 @@
                 </rect>
 
                 <rect
-                x="720"
+                x="705"
                 y="55"
                 width="12"
                 height="12"
@@ -3242,7 +3172,7 @@
                 </rect>
 
                 <rect
-                x="720"
+                x="705"
                 y="70"
                 width="12"
                 height="12"
@@ -3252,7 +3182,7 @@
                 </rect>
 
                 <rect
-                x="720"
+                x="705"
                 y="85"
                 width="12"
                 height="12"
@@ -3262,7 +3192,7 @@
                 </rect>
 
                 <rect
-                x="720"
+                x="705"
                 y="100"
                 width="12"
                 height="12"
@@ -3272,7 +3202,7 @@
                 </rect>
 
                 <rect
-                x="720"
+                x="705"
                 y="115"
                 width="12"
                 height="12"
@@ -3282,7 +3212,7 @@
                 </rect>
 
                 <rect
-                x="720"
+                x="705"
                 y="130"
                 width="12"
                 height="12"
@@ -3292,7 +3222,7 @@
                 </rect>
 
                 <rect
-                x="735"
+                x="720"
                 y="40"
                 width="12"
                 height="12"
@@ -3302,7 +3232,7 @@
                 </rect>
 
                 <rect
-                x="735"
+                x="720"
                 y="55"
                 width="12"
                 height="12"
@@ -3312,7 +3242,7 @@
                 </rect>
 
                 <rect
-                x="735"
+                x="720"
                 y="70"
                 width="12"
                 height="12"
@@ -3322,7 +3252,7 @@
                 </rect>
 
                 <rect
-                x="735"
+                x="720"
                 y="85"
                 width="12"
                 height="12"
@@ -3332,7 +3262,7 @@
                 </rect>
 
                 <rect
-                x="735"
+                x="720"
                 y="100"
                 width="12"
                 height="12"
@@ -3342,7 +3272,7 @@
                 </rect>
 
                 <rect
-                x="735"
+                x="720"
                 y="115"
                 width="12"
                 height="12"
@@ -3352,7 +3282,7 @@
                 </rect>
 
                 <rect
-                x="735"
+                x="720"
                 y="130"
                 width="12"
                 height="12"
@@ -3362,7 +3292,7 @@
                 </rect>
 
                 <rect
-                x="750"
+                x="735"
                 y="40"
                 width="12"
                 height="12"
@@ -3372,7 +3302,7 @@
                 </rect>
 
                 <rect
-                x="750"
+                x="735"
                 y="55"
                 width="12"
                 height="12"
@@ -3382,7 +3312,7 @@
                 </rect>
 
                 <rect
-                x="750"
+                x="735"
                 y="70"
                 width="12"
                 height="12"
@@ -3392,7 +3322,7 @@
                 </rect>
 
                 <rect
-                x="750"
+                x="735"
                 y="85"
                 width="12"
                 height="12"
@@ -3402,7 +3332,7 @@
                 </rect>
 
                 <rect
-                x="750"
+                x="735"
                 y="100"
                 width="12"
                 height="12"
@@ -3412,7 +3342,7 @@
                 </rect>
 
                 <rect
-                x="750"
+                x="735"
                 y="115"
                 width="12"
                 height="12"
@@ -3422,7 +3352,7 @@
                 </rect>
 
                 <rect
-                x="750"
+                x="735"
                 y="130"
                 width="12"
                 height="12"
@@ -3432,7 +3362,7 @@
                 </rect>
 
                 <rect
-                x="765"
+                x="750"
                 y="40"
                 width="12"
                 height="12"
@@ -3442,7 +3372,7 @@
                 </rect>
 
                 <rect
-                x="765"
+                x="750"
                 y="55"
                 width="12"
                 height="12"
@@ -3452,7 +3382,7 @@
                 </rect>
 
                 <rect
-                x="765"
+                x="750"
                 y="70"
                 width="12"
                 height="12"
@@ -3462,7 +3392,7 @@
                 </rect>
 
                 <rect
-                x="765"
+                x="750"
                 y="85"
                 width="12"
                 height="12"
@@ -3472,7 +3402,7 @@
                 </rect>
 
                 <rect
-                x="765"
+                x="750"
                 y="100"
                 width="12"
                 height="12"
@@ -3482,7 +3412,7 @@
                 </rect>
 
                 <rect
-                x="765"
+                x="750"
                 y="115"
                 width="12"
                 height="12"
@@ -3492,7 +3422,7 @@
                 </rect>
 
                 <rect
-                x="765"
+                x="750"
                 y="130"
                 width="12"
                 height="12"
@@ -3502,7 +3432,7 @@
                 </rect>
 
                 <rect
-                x="780"
+                x="765"
                 y="40"
                 width="12"
                 height="12"
@@ -3512,7 +3442,7 @@
                 </rect>
 
                 <rect
-                x="780"
+                x="765"
                 y="55"
                 width="12"
                 height="12"
@@ -3522,7 +3452,7 @@
                 </rect>
 
                 <rect
-                x="780"
+                x="765"
                 y="70"
                 width="12"
                 height="12"
@@ -3532,7 +3462,7 @@
                 </rect>
 
                 <rect
-                x="780"
+                x="765"
                 y="85"
                 width="12"
                 height="12"
@@ -3542,7 +3472,7 @@
                 </rect>
 
                 <rect
-                x="780"
+                x="765"
                 y="100"
                 width="12"
                 height="12"
@@ -3552,7 +3482,7 @@
                 </rect>
 
                 <rect
-                x="780"
+                x="765"
                 y="115"
                 width="12"
                 height="12"
@@ -3562,7 +3492,7 @@
                 </rect>
 
                 <rect
-                x="780"
+                x="765"
                 y="130"
                 width="12"
                 height="12"
@@ -3572,7 +3502,7 @@
                 </rect>
 
                 <rect
-                x="795"
+                x="780"
                 y="40"
                 width="12"
                 height="12"
@@ -3582,7 +3512,7 @@
                 </rect>
 
                 <rect
-                x="795"
+                x="780"
                 y="55"
                 width="12"
                 height="12"
@@ -3592,7 +3522,7 @@
                 </rect>
 
                 <rect
-                x="795"
+                x="780"
                 y="70"
                 width="12"
                 height="12"
@@ -3602,7 +3532,7 @@
                 </rect>
 
                 <rect
-                x="795"
+                x="780"
                 y="85"
                 width="12"
                 height="12"
@@ -3612,7 +3542,7 @@
                 </rect>
 
                 <rect
-                x="795"
+                x="780"
                 y="100"
                 width="12"
                 height="12"
@@ -3622,7 +3552,7 @@
                 </rect>
 
                 <rect
-                x="795"
+                x="780"
                 y="115"
                 width="12"
                 height="12"
@@ -3632,7 +3562,7 @@
                 </rect>
 
                 <rect
-                x="795"
+                x="780"
                 y="130"
                 width="12"
                 height="12"
@@ -3642,7 +3572,7 @@
                 </rect>
 
                 <rect
-                x="810"
+                x="795"
                 y="40"
                 width="12"
                 height="12"
@@ -3652,7 +3582,7 @@
                 </rect>
 
                 <rect
-                x="810"
+                x="795"
                 y="55"
                 width="12"
                 height="12"
@@ -3662,7 +3592,7 @@
                 </rect>
 
                 <rect
-                x="810"
+                x="795"
                 y="70"
                 width="12"
                 height="12"
@@ -3672,7 +3602,7 @@
                 </rect>
 
                 <rect
-                x="810"
+                x="795"
                 y="85"
                 width="12"
                 height="12"
@@ -3682,7 +3612,7 @@
                 </rect>
 
                 <rect
-                x="810"
+                x="795"
                 y="100"
                 width="12"
                 height="12"
@@ -3692,7 +3622,7 @@
                 </rect>
 
                 <rect
-                x="810"
+                x="795"
                 y="115"
                 width="12"
                 height="12"
@@ -3702,7 +3632,7 @@
                 </rect>
 
                 <rect
-                x="810"
+                x="795"
                 y="130"
                 width="12"
                 height="12"
@@ -3712,7 +3642,7 @@
                 </rect>
 
                 <rect
-                x="825"
+                x="810"
                 y="40"
                 width="12"
                 height="12"
@@ -3722,7 +3652,7 @@
                 </rect>
 
                 <rect
-                x="825"
+                x="810"
                 y="55"
                 width="12"
                 height="12"
@@ -3732,7 +3662,7 @@
                 </rect>
 
                 <rect
-                x="825"
+                x="810"
                 y="70"
                 width="12"
                 height="12"
@@ -3742,7 +3672,7 @@
                 </rect>
 
                 <rect
-                x="825"
+                x="810"
                 y="85"
                 width="12"
                 height="12"
@@ -3752,7 +3682,7 @@
                 </rect>
 
                 <rect
-                x="825"
+                x="810"
                 y="100"
                 width="12"
                 height="12"
@@ -3762,7 +3692,7 @@
                 </rect>
 
                 <rect
-                x="825"
+                x="810"
                 y="115"
                 width="12"
                 height="12"
@@ -3772,13 +3702,23 @@
                 </rect>
 
                 <rect
-                x="825"
+                x="810"
                 y="130"
                 width="12"
                 height="12"
                 rx="3"
                 fill="#216e39">
                     <title>8 contributions on 2026-11-07</title>
+                </rect>
+
+                <rect
+                x="825"
+                y="40"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#ebedf0">
+                    <title>0 contributions on 2026-11-08</title>
                 </rect>
 
         <text
